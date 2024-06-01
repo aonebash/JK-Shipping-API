@@ -1,0 +1,4536 @@
+{
+    "name": "Carnival Cruise",
+    "slug": "carnival-cruise",
+    "floors": [
+        {
+            "floor": 1,
+            "seats": [
+                {
+                    "seatId": "D-013",
+                    "seatNo": "D-013",
+                    "zone": "A",
+                    "berthType": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-005",
+                    "seatNo": "D-005",
+                    "zone": "A",
+                    "berthType": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-009",
+                    "seatNo": "D-009",
+                    "zone": "A",
+                    "berthType": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-001",
+                    "seatNo": "D-001",
+                    "zone": "A",
+                    "berthType": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-014",
+                    "seatNo": "D-014",
+                    "zone": "A",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-006",
+                    "seatNo": "D-006",
+                    "zone": "A",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-010",
+                    "seatNo": "D-010",
+                    "zone": "A",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-002",
+                    "seatNo": "D-002",
+                    "zone": "A",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-015",
+                    "seatNo": "D-015",
+                    "zone": "A",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-007",
+                    "seatNo": "D-007",
+                    "zone": "A",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-011",
+                    "seatNo": "D-011",
+                    "zone": "A",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-003",
+                    "seatNo": "D-003",
+                    "zone": "A",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-016",
+                    "seatNo": "D-016",
+                    "zone": "A",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-008",
+                    "seatNo": "D-008",
+                    "zone": "A",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-012",
+                    "seatNo": "D-012",
+                    "zone": "A",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-004",
+                    "seatNo": "D-004",
+                    "zone": "A",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-017",
+                    "seatNo": "D-017",
+                    "zone": "B",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-025",
+                    "seatNo": "D-025",
+                    "zone": "B",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-021",
+                    "seatNo": "D-021",
+                    "zone": "B",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-029",
+                    "seatNo": "D-029",
+                    "zone": "B",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-018",
+                    "seatNo": "D-018",
+                    "zone": "B",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-026",
+                    "seatNo": "D-026",
+                    "zone": "B",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-022",
+                    "seatNo": "D-022",
+                    "zone": "B",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-030",
+                    "seatNo": "D-030",
+                    "zone": "B",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-019",
+                    "seatNo": "D-019",
+                    "zone": "B",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-027",
+                    "seatNo": "D-027",
+                    "zone": "B",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-023",
+                    "seatNo": "D-023",
+                    "zone": "B",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-031",
+                    "seatNo": "D-031",
+                    "zone": "B",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-020",
+                    "seatNo": "D-020",
+                    "zone": "B",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-028",
+                    "seatNo": "D-028",
+                    "zone": "B",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-024",
+                    "seatNo": "D-024",
+                    "zone": "B",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-032",
+                    "seatNo": "D-032",
+                    "zone": "B",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-039",
+                    "seatNo": "D-039",
+                    "zone": "C",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-035",
+                    "seatNo": "D-035",
+                    "zone": "C",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-037",
+                    "seatNo": "D-037",
+                    "zone": "C",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-033",
+                    "seatNo": "D-033",
+                    "zone": "C",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+        
+                {
+                    "seatId": "D-040",
+                    "seatNo": "D-040",
+                    "zone": "C",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-036",
+                    "seatNo": "D-036",
+                    "zone": "C",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-038",
+                    "seatNo": "D-038",
+                    "zone": "C",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-034",
+                    "seatNo": "D-034",
+                    "zone": "C",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "S-044",
+                    "seatNo": "S-044",
+                    "zone": "C",
+                    "type": "DN",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-042",
+                    "seatNo": "S-042",
+                    "zone": "C",
+                    "type": "UP",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-043",
+                    "seatNo": "S-043",
+                    "zone": "C",
+                    "type": "DN",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-041",
+                    "seatNo": "S-041",
+                    "zone": "C",
+                    "type": "UP",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-045",
+                    "seatNo": "D-045",
+                    "zone": "D",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-049",
+                    "seatNo": "D-049",
+                    "zone": "D",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-047",
+                    "seatNo": "D-047",
+                    "zone": "D",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-051",
+                    "seatNo": "D-051",
+                    "zone": "D",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-046",
+                    "seatNo": "D-046",
+                    "zone": "D",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-050",
+                    "seatNo": "D-050",
+                    "zone": "D",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-048",
+                    "seatNo": "D-048",
+                    "zone": "D",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-052",
+                    "seatNo": "D-052",
+                    "zone": "D",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "S-053",
+                    "seatNo": "S-053",
+                    "zone": "D",
+                    "type": "UP",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-055",
+                    "seatNo": "S-055",
+                    "zone": "D",
+                    "type": "DN",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-054",
+                    "seatNo": "S-054",
+                    "zone": "D",
+                    "type": "UP",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-056",
+                    "seatNo": "S-056",
+                    "zone": "D",
+                    "type": "DN",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-069",
+                    "seatNo": "D-069",
+                    "zone": "E",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-061",
+                    "seatNo": "D-061",
+                    "zone": "E",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-065",
+                    "seatNo": "D-065",
+                    "zone": "E",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-057",
+                    "seatNo": "D-057",
+                    "zone": "E",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+        
+                {
+                    "seatId": "D-070",
+                    "seatNo": "D-070",
+                    "zone": "E",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-062",
+                    "seatNo": "D-062",
+                    "zone": "E",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-066",
+                    "seatNo": "D-066",
+                    "zone": "E",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-058",
+                    "seatNo": "D-058",
+                    "zone": "E",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-071",
+                    "seatNo": "D-071",
+                    "zone": "E",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-063",
+                    "seatNo": "D-063",
+                    "zone": "E",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-067",
+                    "seatNo": "D-067",
+                    "zone": "E",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-059",
+                    "seatNo": "D-059",
+                    "zone": "E",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-072",
+                    "seatNo": "D-072",
+                    "zone": "E",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-064",
+                    "seatNo": "D-064",
+                    "zone": "E",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-068",
+                    "seatNo": "D-068",
+                    "zone": "E",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-060",
+                    "seatNo": "D-060",
+                    "zone": "E",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-073",
+                    "seatNo": "D-073",
+                    "zone": "F",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-081",
+                    "seatNo": "D-081",
+                    "zone": "F",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-077",
+                    "seatNo": "D-077",
+                    "zone": "F",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-085",
+                    "seatNo": "D-085",
+                    "zone": "F",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-074",
+                    "seatNo": "D-074",
+                    "zone": "F",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-082",
+                    "seatNo": "D-082",
+                    "zone": "F",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-078",
+                    "seatNo": "D-078",
+                    "zone": "F",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-086",
+                    "seatNo": "D-086",
+                    "zone": "F",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-075",
+                    "seatNo": "D-075",
+                    "zone": "F",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-083",
+                    "seatNo": "D-083",
+                    "zone": "F",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-079",
+                    "seatNo": "D-079",
+                    "zone": "F",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-087",
+                    "seatNo": "D-087",
+                    "zone": "F",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-076",
+                    "seatNo": "D-076",
+                    "zone": "F",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-084",
+                    "seatNo": "D-084",
+                    "zone": "F",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-080",
+                    "seatNo": "D-080",
+                    "zone": "F",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-088",
+                    "seatNo": "D-088",
+                    "zone": "F",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-095",
+                    "seatNo": "D-095",
+                    "zone": "G",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-091",
+                    "seatNo": "D-091",
+                    "zone": "G",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-093",
+                    "seatNo": "D-093",
+                    "zone": "G",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-089",
+                    "seatNo": "D-089",
+                    "zone": "G",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-096",
+                    "seatNo": "D-096",
+                    "zone": "G",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-092",
+                    "seatNo": "D-092",
+                    "zone": "G",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-094",
+                    "seatNo": "D-094",
+                    "zone": "G",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-090",
+                    "seatNo": "D-090",
+                    "zone": "G",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "S-100",
+                    "seatNo": "S-100",
+                    "zone": "G",
+                    "type": "DN",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-098",
+                    "seatNo": "S-098",
+                    "zone": "G",
+                    "type": "UP",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-099",
+                    "seatNo": "S-099",
+                    "zone": "G",
+                    "type": "DN",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-097",
+                    "seatNo": "S-097",
+                    "zone": "G",
+                    "type": "UP",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-101",
+                    "seatNo": "D-101",
+                    "zone": "H",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-105",
+                    "seatNo": "D-105",
+                    "zone": "H",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-103",
+                    "seatNo": "D-103",
+                    "zone": "H",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-107",
+                    "seatNo": "D-107",
+                    "zone": "H",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-102",
+                    "seatNo": "D-102",
+                    "zone": "H",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-106",
+                    "seatNo": "D-106",
+                    "zone": "H",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-104",
+                    "seatNo": "D-104",
+                    "zone": "H",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-108",
+                    "seatNo": "D-108",
+                    "zone": "H",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "S-109",
+                    "seatNo": "S-109",
+                    "zone": "H",
+                    "type": "UP",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-111",
+                    "seatNo": "S-111",
+                    "zone": "H",
+                    "type": "DN",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-110",
+                    "seatNo": "S-110",
+                    "zone": "H",
+                    "type": "UP",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-112",
+                    "seatNo": "S-112",
+                    "zone": "H",
+                    "type": "DN",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-125",
+                    "seatNo": "D-125",
+                    "zone": "I",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-117",
+                    "seatNo": "D-117",
+                    "zone": "I",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-121",
+                    "seatNo": "D-121",
+                    "zone": "I",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-113",
+                    "seatNo": "D-113",
+                    "zone": "I",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-126",
+                    "seatNo": "D-126",
+                    "zone": "I",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-118",
+                    "seatNo": "D-118",
+                    "zone": "I",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-122",
+                    "seatNo": "D-122",
+                    "zone": "I",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-114",
+                    "seatNo": "D-114",
+                    "zone": "I",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-127",
+                    "seatNo": "D-127",
+                    "zone": "I",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-119",
+                    "seatNo": "D-119",
+                    "zone": "I",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-123",
+                    "seatNo": "D-123",
+                    "zone": "I",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-115",
+                    "seatNo": "D-115",
+                    "zone": "I",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-128",
+                    "seatNo": "D-128",
+                    "zone": "I",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-120",
+                    "seatNo": "D-120",
+                    "zone": "I",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-124",
+                    "seatNo": "D-124",
+                    "zone": "I",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-116",
+                    "seatNo": "D-116",
+                    "zone": "I",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-129",
+                    "seatNo": "D-129",
+                    "zone": "J",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-137",
+                    "seatNo": "D-137",
+                    "zone": "J",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-133",
+                    "seatNo": "D-133",
+                    "zone": "J",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-141",
+                    "seatNo": "D-141",
+                    "zone": "J",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-130",
+                    "seatNo": "D-130",
+                    "zone": "J",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-138",
+                    "seatNo": "D-138",
+                    "zone": "J",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-134",
+                    "seatNo": "D-134",
+                    "zone": "J",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-142",
+                    "seatNo": "D-142",
+                    "zone": "J",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+        
+                {
+                    "seatId": "D-131",
+                    "seatNo": "D-131",
+                    "zone": "J",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-139",
+                    "seatNo": "D-139",
+                    "zone": "J",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-135",
+                    "seatNo": "D-135",
+                    "zone": "J",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-143",
+                    "seatNo": "D-143",
+                    "zone": "J",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-132",
+                    "seatNo": "D-132",
+                    "zone": "J",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-140",
+                    "seatNo": "D-140",
+                    "zone": "J",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-136",
+                    "seatNo": "D-136",
+                    "zone": "J",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-144",
+                    "seatNo": "D-144",
+                    "zone": "J",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-151",
+                    "seatNo": "D-151",
+                    "zone": "K",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-147",
+                    "seatNo": "D-147",
+                    "zone": "K",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-149",
+                    "seatNo": "D-149",
+                    "zone": "K",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-145",
+                    "seatNo": "D-145",
+                    "zone": "K",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-152",
+                    "seatNo": "D-152",
+                    "zone": "K",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-148",
+                    "seatNo": "D-148",
+                    "zone": "K",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-150",
+                    "seatNo": "D-150",
+                    "zone": "K",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-146",
+                    "seatNo": "D-146",
+                    "zone": "K",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "S-156",
+                    "seatNo": "S-156",
+                    "zone": "K",
+                    "type": "DN",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-154",
+                    "seatNo": "S-154",
+                    "zone": "K",
+                    "type": "UP",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-155",
+                    "seatNo": "S-155",
+                    "zone": "K",
+                    "type": "DN",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-153",
+                    "seatNo": "S-153",
+                    "zone": "K",
+                    "type": "UP",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-157",
+                    "seatNo": "D-157",
+                    "zone": "L",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-161",
+                    "seatNo": "D-161",
+                    "zone": "L",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-159",
+                    "seatNo": "D-159",
+                    "zone": "L",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-163",
+                    "seatNo": "D-163",
+                    "zone": "L",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+        
+                {
+                    "seatId": "D-158",
+                    "seatNo": "D-158",
+                    "zone": "L",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-162",
+                    "seatNo": "D-162",
+                    "zone": "L",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-160",
+                    "seatNo": "D-160",
+                    "zone": "L",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-164",
+                    "seatNo": "D-164",
+                    "zone": "L",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "S-165",
+                    "seatNo": "S-165",
+                    "zone": "L",
+                    "type": "UP",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-167",
+                    "seatNo": "S-167",
+                    "zone": "L",
+                    "type": "DN",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-166",
+                    "seatNo": "S-166",
+                    "zone": "L",
+                    "type": "UP",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-168",
+                    "seatNo": "S-168",
+                    "zone": "L",
+                    "type": "DN",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "S-175",
+                    "seatNo": "S-175",
+                    "zone": "M",
+                    "type": "DN",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-171",
+                    "seatNo": "S-171",
+                    "zone": "M",
+                    "type": "UP",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-173",
+                    "seatNo": "S-173",
+                    "zone": "M",
+                    "type": "DN",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-169",
+                    "seatNo": "S-169",
+                    "zone": "M",
+                    "type": "UP",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "S-176",
+                    "seatNo": "S-176",
+                    "zone": "M",
+                    "type": "DN",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-172",
+                    "seatNo": "S-172",
+                    "zone": "M",
+                    "type": "UP",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-174",
+                    "seatNo": "S-174",
+                    "zone": "M",
+                    "type": "DN",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-170",
+                    "seatNo": "S-170",
+                    "zone": "M",
+                    "type": "UP",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "S-177",
+                    "seatNo": "S-177",
+                    "zone": "N",
+                    "type": "UP",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-181",
+                    "seatNo": "S-181",
+                    "zone": "N",
+                    "type": "DN",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-179",
+                    "seatNo": "S-179",
+                    "zone": "N",
+                    "type": "UP",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-183",
+                    "seatNo": "S-183",
+                    "zone": "N",
+                    "type": "DN",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "S-178",
+                    "seatNo": "S-178",
+                    "zone": "N",
+                    "type": "UP",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-182",
+                    "seatNo": "S-182",
+                    "zone": "N",
+                    "type": "DN",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-180",
+                    "seatNo": "S-180",
+                    "zone": "N",
+                    "type": "UP",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-184",
+                    "seatNo": "S-184",
+                    "zone": "N",
+                    "type": "DN",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+        
+                {
+                    "seatId": "D-197",
+                    "seatNo": "D-197",
+                    "zone": "O",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-189",
+                    "seatNo": "D-189",
+                    "zone": "O",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-193",
+                    "seatNo": "D-193",
+                    "zone": "O",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-185",
+                    "seatNo": "D-185",
+                    "zone": "O",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-198",
+                    "seatNo": "D-198",
+                    "zone": "O",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-190",
+                    "seatNo": "D-190",
+                    "zone": "O",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-194",
+                    "seatNo": "D-194",
+                    "zone": "O",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-186",
+                    "seatNo": "D-186",
+                    "zone": "O",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-199",
+                    "seatNo": "D-199",
+                    "zone": "O",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-191",
+                    "seatNo": "D-191",
+                    "zone": "O",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-195",
+                    "seatNo": "D-195",
+                    "zone": "O",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-187",
+                    "seatNo": "D-187",
+                    "zone": "O",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-200",
+                    "seatNo": "D-200",
+                    "zone": "O",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-192",
+                    "seatNo": "D-192",
+                    "zone": "O",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-196",
+                    "seatNo": "D-196",
+                    "zone": "O",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-188",
+                    "seatNo": "D-188",
+                    "zone": "O",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-201",
+                    "seatNo": "D-201",
+                    "zone": "P",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-209",
+                    "seatNo": "D-209",
+                    "zone": "P",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-205",
+                    "seatNo": "D-205",
+                    "zone": "P",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-213",
+                    "seatNo": "D-213",
+                    "zone": "P",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-202",
+                    "seatNo": "D-202",
+                    "zone": "P",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-210",
+                    "seatNo": "D-210",
+                    "zone": "P",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-206",
+                    "seatNo": "D-206",
+                    "zone": "P",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-214",
+                    "seatNo": "D-214",
+                    "zone": "P",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-203",
+                    "seatNo": "D-203",
+                    "zone": "P",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-211",
+                    "seatNo": "D-211",
+                    "zone": "P",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-207",
+                    "seatNo": "D-207",
+                    "zone": "P",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-215",
+                    "seatNo": "D-215",
+                    "zone": "P",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-204",
+                    "seatNo": "D-204",
+                    "zone": "P",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-212",
+                    "seatNo": "D-212",
+                    "zone": "P",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-208",
+                    "seatNo": "D-208",
+                    "zone": "P",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-216",
+                    "seatNo": "D-216",
+                    "zone": "P",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+        
+                {
+                    "seatId": "D-223",
+                    "seatNo": "D-223",
+                    "zone": "Q",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-219",
+                    "seatNo": "D-219",
+                    "zone": "Q",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-221",
+                    "seatNo": "D-221",
+                    "zone": "Q",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-217",
+                    "seatNo": "D-217",
+                    "zone": "Q",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-224",
+                    "seatNo": "D-224",
+                    "zone": "Q",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-220",
+                    "seatNo": "D-220",
+                    "zone": "Q",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-222",
+                    "seatNo": "D-222",
+                    "zone": "Q",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-218",
+                    "seatNo": "D-218",
+                    "zone": "Q",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "S-228",
+                    "seatNo": "S-228",
+                    "zone": "Q",
+                    "type": "DN",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-226",
+                    "seatNo": "S-226",
+                    "zone": "Q",
+                    "type": "UP",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-227",
+                    "seatNo": "S-227",
+                    "zone": "Q",
+                    "type": "DN",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-225",
+                    "seatNo": "S-225",
+                    "zone": "Q",
+                    "type": "UP",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "D-229",
+                    "seatNo": "D-229",
+                    "zone": "R",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-233",
+                    "seatNo": "D-233",
+                    "zone": "R",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-231",
+                    "seatNo": "D-231",
+                    "zone": "R",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-235",
+                    "seatNo": "D-235",
+                    "zone": "R",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                
+                {
+                    "seatId": "D-230",
+                    "seatNo": "D-230",
+                    "zone": "R",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-234",
+                    "seatNo": "D-234",
+                    "zone": "R",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-232",
+                    "seatNo": "D-232",
+                    "zone": "R",
+                    "type": "UP",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "D-236",
+                    "seatNo": "D-236",
+                    "zone": "R",
+                    "type": "DN",
+                    "seatType": 18,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_double_bit_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+        
+                {
+                    "seatId": "S-237",
+                    "seatNo": "S-237",
+                    "zone": "R",
+                    "type": "UP",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-239",
+                    "seatNo": "S-239",
+                    "zone": "R",
+                    "type": "DN",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-238",
+                    "seatNo": "S-238",
+                    "zone": "R",
+                    "type": "UP",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "S-240",
+                    "seatNo": "S-240",
+                    "zone": "R",
+                    "type": "DN",
+                    "seatType": 17,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/bunker_single_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },{
+                    "seatId": "",
+                    "seatNo": "",
+                    "zone": "",
+                    "type": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                }
+            ]
+        },
+        {
+            "floor": 2,
+            "seats": [
+                {
+                    "seatId": "D-210",
+                    "seatNo": "D-210",
+                    "seatType": 2,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/double_non_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "S-211",
+                    "seatNo": "S-211",
+                    "seatType": 1,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "D-201",
+                    "seatNo": "D-201",
+                    "seatType": 2,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/double_non_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+
+                {
+                    "seatId": "D-209",
+                    "seatNo": "D-209",
+                    "seatType": 2,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/double_non_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "S-212",
+                    "seatNo": "S-212",
+                    "seatType": 1,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "D-202",
+                    "seatNo": "D-202",
+                    "seatType": 2,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/double_non_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+
+                {
+                    "seatId": "D-208",
+                    "seatNo": "D-208",
+                    "seatType": 2,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/double_non_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "S-213",
+                    "seatNo": "S-213",
+                    "seatType": 1,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "D-203",
+                    "seatNo": "D-203",
+                    "seatType": 2,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/double_non_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+
+                {
+                    "seatId": "D-207",
+                    "seatNo": "D-207",
+                    "seatType": 2,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/double_non_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "S-214",
+                    "seatNo": "S-214",
+                    "seatType": 1,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "D-204",
+                    "seatNo": "D-204",
+                    "seatType": 2,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/double_non_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+
+                {
+                    "seatId": "D-206",
+                    "seatNo": "D-206",
+                    "seatType": 2,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/double_non_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "S-215",
+                    "seatNo": "S-215",
+                    "seatType": 1,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "D-205",
+                    "seatNo": "D-205",
+                    "seatType": 2,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/double_non_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "S-216",
+                    "seatNo": "S-216",
+                    "seatType": 1,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "S-217",
+                    "seatNo": "S-217",
+                    "seatType": 1,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "S-218",
+                    "seatNo": "S-218",
+                    "seatType": 1,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+
+                {
+                    "seatId": "VIP-10",
+                    "seatNo": "VIP-10",
+                    "seatType": 8,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/vip.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "VIP-01",
+                    "seatNo": "VIP-01",
+                    "seatType": 8,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/vip.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+
+                {
+                    "seatId": "VIP-09",
+                    "seatNo": "VIP-09",
+                    "seatType": 8,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/vip.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "VIP-02",
+                    "seatNo": "VIP-02",
+                    "seatType": 8,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/vip.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+
+                {
+                    "seatId": "VIP-08",
+                    "seatNo": "VIP-08",
+                    "seatType": 8,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/vip.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "VIP-03",
+                    "seatNo": "VIP-03",
+                    "seatType": 8,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/vip.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+
+                {
+                    "seatId": "VIP-07",
+                    "seatNo": "VIP-07",
+                    "seatType": 8,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/vip.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "VIP-04",
+                    "seatNo": "VIP-04",
+                    "seatType": 8,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/vip.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+
+                {
+                    "seatId": "VIP-06",
+                    "seatNo": "VIP-06",
+                    "seatType": 8,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/vip.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "VIP-05",
+                    "seatNo": "VIP-05",
+                    "seatType": 8,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/vip.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+
+                {
+                    "seatId": "VIP-02-Premium",
+                    "seatNo": "VIP-02-Premium",
+                    "seatType": 16,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/vip.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "VIP-01-Premium",
+                    "seatNo": "VIP-01-Premium",
+                    "seatType": 16,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/vip.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                }
+            ]
+        },
+        {
+            "floor": 3,
+            "seats": [
+              {
+                "seatId": "D-324",
+                "seatNo": "D-324",
+                "seatType": 2,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/double_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "S-325",
+                "seatNo": "S-325",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "D-301",
+                "seatNo": "D-301",
+                "seatType": 2,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/double_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+          
+              {
+                "seatId": "D-323",
+                "seatNo": "D-323",
+                "seatType": 2,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/double_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "S-326",
+                "seatNo": "S-326",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "D-302",
+                "seatNo": "D-302",
+                "seatType": 2,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/double_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+          
+              {
+                "seatId": "D-322",
+                "seatNo": "D-322",
+                "seatType": 2,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/double_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "S-327",
+                "seatNo": "S-327",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "D-303",
+                "seatNo": "D-303",
+                "seatType": 2,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/double_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+          
+              {
+                "seatId": "D-321",
+                "seatNo": "D-321",
+                "seatType": 2,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/double_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "S-328",
+                "seatNo": "S-328",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "S-304",
+                "seatNo": "S-304",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+          
+              {
+                "seatId": "D-320",
+                "seatNo": "D-320",
+                "seatType": 2,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/double_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "S-329",
+                "seatNo": "S-329",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "D-305",
+                "seatNo": "D-305",
+                "seatType": 2,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/double_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+          
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "S-330",
+                "seatNo": "S-330",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+          
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "S-331",
+                "seatNo": "S-331",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+          
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "S-332",
+                "seatNo": "S-332",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+          
+              {
+                "seatId": "S-319",
+                "seatNo": "S-319",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+          
+              {
+                "seatId": "S-333",
+                "seatNo": "S-333",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "S-306",
+                "seatNo": "S-306",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+          
+              {
+                "seatId": "S-318",
+                "seatNo": "S-318",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+          
+              {
+                "seatId": "S-334",
+                "seatNo": "S-334",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "S-307",
+                "seatNo": "S-307",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+          
+              {
+                "seatId": "S-317",
+                "seatNo": "S-317",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+          
+              {
+                "seatId": "S-335",
+                "seatNo": "S-335",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "S-308",
+                "seatNo": "S-308",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+          
+              {
+                "seatId": "S-316",
+                "seatNo": "S-316",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+          
+              {
+                "seatId": "S-336",
+                "seatNo": "S-336",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "S-309",
+                "seatNo": "S-309",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+          
+              {
+                "seatId": "S-315",
+                "seatNo": "S-315",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+          
+              {
+                "seatId": "S-337",
+                "seatNo": "S-337",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "S-310",
+                "seatNo": "S-310",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+          
+              {
+                "seatId": "S-314",
+                "seatNo": "S-314",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+          
+              {
+                "seatId": "S-338",
+                "seatNo": "S-338",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "S-311",
+                "seatNo": "S-311",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+          
+              {
+                "seatId": "S-313",
+                "seatNo": "S-313",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              },
+          
+              {
+                "seatId": "S-339",
+                "seatNo": "S-339",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "S-312",
+                "seatNo": "S-312",
+                "seatType": 1,
+                "seatStatus": 1,
+                "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/single_non_ac.png",
+                "expTime": 0,
+                "ticketId": null
+              },
+              {
+                "seatId": "",
+                "seatNo": "",
+                "seatType": 0,
+                "seatStatus": 0,
+                "seatImg": "",
+                "expTime": 0,
+                "ticketId": null
+              }
+            ]
+        },
+        {
+            "floor": 4,
+            "seats": [
+                {
+                    "seatId": "S.VIP-2",
+                    "seatNo": "S.VIP-2",
+                    "seatType": 7,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/vip.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "S.VIP-1",
+                    "seatNo": "S.VIP-1",
+                    "seatType": 7,
+                    "seatStatus": 1,
+                    "seatImg": "https://ftp.jabo.com.bd/uploads/launch-seats/available/vip.png",
+                    "expTime": 0,
+                    "ticketId": null
+                },
+                {
+                    "seatId": "",
+                    "seatNo": "",
+                    "seatType": 0,
+                    "seatStatus": 0,
+                    "seatImg": "",
+                    "expTime": 0,
+                    "ticketId": null
+                }
+            ]
+        }
+    ]
+}
